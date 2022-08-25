@@ -1,0 +1,15 @@
+User creation
+
+Student creation
+Student update
+
+Group creation
+
+Assignment content creation
+
+Assignment creation for group
+Assignment solution creation
+Assignment mark set
+Automatic marks set (depending on solution existance,
+doesn't influence assignments with marks)
+Assignment solution resending resets the mark
